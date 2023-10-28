@@ -1,8 +1,8 @@
 <script setup lang="ts">
 // import HelloWorld from "./components/HelloWorld.vue"
-const test = 'xx';
+const testESLint = 'xx';
 
-console.log('1231');
+console.log('singleQuote');
 </script>
 
 <template>
